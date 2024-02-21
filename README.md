@@ -2,10 +2,11 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <audio controls loop autoplay>
+        <source src="./musicas/Calvin Harris - Let's Go (feat. Ne-Yo) (Lyrics) (1).mp3" type="audio/mpeg"></audio>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-
+    <title>JORGE MELO</title>
+    <link rel="stylesheet" href="./style-portifolio.css">
 </head>
 <body>
     <h1><p><strong><em>Sou JORGE MELO</em></strong></p>
