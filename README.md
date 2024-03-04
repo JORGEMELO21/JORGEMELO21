@@ -5,12 +5,12 @@
     <audio controls loop autoplay>
         <source src="./musicas/Calvin Harris - Let's Go (feat. Ne-Yo) (Lyrics) (1).mp3" type="audio/mpeg"></audio>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> JORGE MELO</title>
+    <!--<title> JORGE MELO</title>-->
     <link rel="stylesheet" href="./style-portifolio.css">
 </head>
 <body>
     
-    <div style="display: inline_block"><br>
+  <!--<div style="display: inline_block"><br>-->
   <!--<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <!--<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
